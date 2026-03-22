@@ -7,7 +7,7 @@ from tradingview_ta import TA_Handler, Interval
 import time
 user_data={}
 
-TOKEN = '6888896361:AAHTTTYVrFQv5yJcctXmzoDs_tola-5sZYo'
+TOKEN = 'Your_Telegram_Bot_Token'
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 @bot.message_handler(commands=['start'])
