@@ -1,0 +1,3 @@
+At the beggining you need to create your private telegram bot. Then, copy it's token to the code, after that the bot should begin to work properly. After, you will be asked your Binance API --> the amount of money for the position --> SL & TP percentages.
+After that the software will automatically start to trade from your account. You can always stop the process through the control panel in the Telegram.
+The program was made by 9-th grade student for the Ukrainian Youth Academy of Science competition in 2023-2024. The scientific paper was suffesfully represented and defended, getting me a second place in a regional level. 
